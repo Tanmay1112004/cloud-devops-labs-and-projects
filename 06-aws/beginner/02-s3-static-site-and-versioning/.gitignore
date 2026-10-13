@@ -1,0 +1,13 @@
+sample-files/
+private-documents/
+*.pem
+*.key
+.env
+.env.*
+.aws/
+*.presigned-url
+presigned-url.txt
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
